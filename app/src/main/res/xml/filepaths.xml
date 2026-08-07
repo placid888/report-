@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 允許分享我們 App 專屬的外部檔案目錄 (也就是存 ZIP 的地方) -->
+    <external-files-path name="my_files" path="." />
+</paths>
